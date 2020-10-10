@@ -1,0 +1,14 @@
+
+1.throughput : 241943/333001=0.72655 dalam bytes/s
+             1 bytes=8 bit
+             0.72655x8=5812 k bits/s
+
+2.packet loss: 0% tidak ada paket yang gagal terkirim
+
+3.delay : time 2 - time 1
+  total delay=38822 s
+  rata-rata delay= total delay/(jumlah paket-1)=70,075
+
+4. jitter:
+   total jitter : 10,882 s
+   rata2 jitter : 0,0238 s
